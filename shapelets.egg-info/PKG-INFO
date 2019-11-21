@@ -1,0 +1,26 @@
+Metadata-Version: 1.1
+Name: shapelets
+Version: 0.2
+Summary: Shapelet fitting and plotting
+Home-page: https://github.com/griffinfoster/shapelets
+Author: Griffin Foster
+Author-email: griffin.foster@gmail.com
+License: GPL
+Description: Shapelet fitting and plotting
+Platform: *nix
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Natural Language :: English
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Topic :: Scientific/Engineering :: Astronomy
+Requires: distutils
+Requires: numpy
+Requires: astropy
+Requires: scipy
+Requires: matplotlib
+Requires: json
+Provides: shapelets
+Provides: shapelets.phs
